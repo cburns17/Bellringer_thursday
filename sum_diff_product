@@ -1,0 +1,5 @@
+puts "any number"
+
+input =gets.chomp
+
+puts input
